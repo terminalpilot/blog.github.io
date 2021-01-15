@@ -236,5 +236,5 @@ Doing write-ups for CTF\'s helps create a professional portfolio and also
 helps me really learn and own the solutions, and helps other people
 learn the CTF\'s.\
 \
-If you are reading through this and have any comments/ suggestions on
-how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.magee@protonmail.com. My goals with writeups are to help others come to the solution, explain my process, and explain my struggles.
+**If you are reading this and have any comments/ suggestions on
+how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.magee@protonmail.com. My goal with writeups is to help others understand the solution, explain my process, explain my struggles, and ultimately learn with you and 'own' the information. 

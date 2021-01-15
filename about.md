@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+ Aspiring White Hat Hacker with over two years of successful Technical Support Specialist experience at Cisco and many years of IT-related roles. Grateful to have found my passion in cybersecurity and grateful to be able to pursue it relentlessly. 
+ 
+https://www.linkedin.com/in/jonmagee/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+jon.magee@protonmail.com

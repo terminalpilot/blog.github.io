@@ -24,9 +24,7 @@ can about the victim machine.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
 
-<img src="3-1.png"
-     alt="3-1"
-     style="float: left; margin-right: 10px;" />
+![Screenshot](/images/3-1.jpg "Screenshot")
 
 \
 • First off I started with tool **nmap**\

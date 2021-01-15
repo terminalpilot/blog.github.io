@@ -4,12 +4,11 @@
 \
 <https://tryhackme.com/room/picklerick>\
 [![](images/1-1.png)]()\
-:::
+
 
 # Initial Enumeration {#initial-enumeration .title .level-2}
 
 \
-:::
 
 # nmap
 
@@ -18,7 +17,7 @@
 can about the victim machine.\
 \
 • To start, I made sure to pay attention to **what I was looking for**.\
-→ 3 flags, or 'ingredients'.\
+      → 3 flags, or 'ingredients'.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
 \

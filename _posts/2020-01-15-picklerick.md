@@ -6,14 +6,12 @@ layout: post
 title: Pickle Rick
 ---
 
-\
 <https://tryhackme.com/room/picklerick>\
 [![](images/1-1.png)]()\
 
 
 # Initial Enumeration
 
-\
 
 # nmap
 

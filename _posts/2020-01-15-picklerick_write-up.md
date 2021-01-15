@@ -70,8 +70,8 @@ Now I know the **Username**. I took note.\
 \
 Next thought:\
 \
-**What will web servers certainly have?** [files and directories.
-]{style="background-color:#a52a2a;"}\
+**What will web servers certainly have?** Files and Directories. 
+
 \
 this is where **gobuster** comes in...
 

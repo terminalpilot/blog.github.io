@@ -17,9 +17,10 @@ My first step is always to find **as much information** as I possible
 can about the victim machine.
 \
 To start, I made sure to pay attention to **what I was looking for**.\
-      → 3 flags, or 'ingredients'.\
 \
-After hitting deploy I had my Active Machine (victim machine)\
+      → **3 flags, or 'ingredients'**\
+\
+After clicking the deploy button I had my Active Machine (victim machine) IP\
 
 ![active](/images/active.png "active")
 
@@ -30,14 +31,14 @@ First off I started with tool **nmap**\
 scan and probe services on the internet. Learn more in this free THM
 room: <https://tryhackme.com/room/ccpentesting>\
 \
-I used **nmap -vv -A -p- \[IP of the victim box above\]**.\
+I used **nmap -vv -A -p- \[IP of the victim box shown above\]**.\
 → **-vv:** Increases verbosity level\
 → **-A:** activates service detection, operating system detection, a
 traceroute and common script scanning.\
 → **-p-**: scan **all** ports; not just the common ones. In-case the
 victim machine reassigned ports to evade scanners.\
 \
-**NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to make port scanning harder. That is why I add -p-. Sometimes for a ctf if it's clear what I'm looking for I may take -p- off out of an interest of time. 
+**NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to evade scanners. That is why I add -p-. Sometimes for a ctf if it's clear what I'm looking for I may take -p- off out of an interest of time. 
 ![active](/images/2screen.png "active")
 \
 • This part was the most interesting to me is in boxed in red:\
@@ -230,12 +231,10 @@ Also there were times that I was asking myself a question, that I
 could just as easily google. As you saw with 'Less', a simple google
 search pointed me directly to the main solution.\
 \
-Doing write-ups for CTF\'s helps create a professional portfolio, also
+Doing write-ups for CTF\'s helps create a professional portfolio and also
 helps me really learn and own the solutions, and helps other people
-learn the CTF.\
+learn the CTF\'s.\
 \
 If you are reading through this and have any comments/ suggestions on
-how I can improve the next write-up. I\'ll try every write up to explain
-not only how I found the flags but my process and struggles. Please let
-me know. Via this form:\
+how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.magee@protonmail.com. My goals with writeups are to help others come to the solution, explain my process, and explain my struggles. 
 

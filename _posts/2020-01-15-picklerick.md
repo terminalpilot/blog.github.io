@@ -23,7 +23,10 @@ can about the victim machine.\
       → 3 flags, or 'ingredients'.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
-![3-1.png]({{site.baseurl}}/_posts/3-1.png)
+
+<img src="3-1.png"
+     alt="3-1"
+     style="float: left; margin-right: 10px;" />
 
 \
 • First off I started with tool **nmap**\

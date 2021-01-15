@@ -1,6 +1,4 @@
 ---
-layout: post
-::: {.page}
 # Pickle Rick {#pickle-rick .title .level-1}
 
 \
@@ -8,13 +6,11 @@ layout: post
 [![](images/1-1.png)]()\
 :::
 
-::: {.page}
 # Initial Enumeration {#initial-enumeration .title .level-2}
 
 \
 :::
 
-::: {.page}
 # nmap {#nmap .title .level-3}
 
 \

@@ -23,8 +23,8 @@ can about the victim machine.\
       → 3 flags, or 'ingredients'.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
-\
-![]({{site.baseurl}}/https://imgur.com/hX43lr6)
+![3-1.png]({{site.baseurl}}/_posts/3-1.png)
+
 \
 • First off I started with tool **nmap**\
 → **Why did I start with nmap?** NMAP is the most common tool used to

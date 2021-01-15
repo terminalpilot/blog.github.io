@@ -14,7 +14,7 @@ published: true
 
 \
 My first step is always to find **as much information** as I possible
-can about the victim machine.\
+can about the victim machine.
 \
 To start, I made sure to pay attention to **what I was looking for**.\
       → 3 flags, or 'ingredients'.\
@@ -73,10 +73,9 @@ Next thought:\
 **What will web servers certainly have?** [files and directories.
 ]{style="background-color:#a52a2a;"}\
 \
-this is where **gobuster** comes in -\>\
-:::
+this is where **gobuster** comes in...
 
-# gobuster {#gobuster .title .level-3}
+# gobuster
 
 \
 **Gobuster** is a very useful Web Enumeration tool. The idea behind
@@ -170,18 +169,16 @@ tried with Sup3rS3cretPickl3Ingred.txt\
 \
 [![](images/21-10.png)]()\
 \
-[• Looks like a Super Secret Ingredient. And a
-]{style="background-color:#a52a2a;"}**[FLAG! One down. Two to go!
-🏳️]{style="background-color:#a52a2a;"}\
+**Looks like a SUPER SECRET INGREDIENT! TWO TO GO!**
 \
 **I wasn\'t sure where to go from here so I went back to the gobuster
 scan (which I threw in my notes to refer back later). I knew there are
-other folders on this web server. Remember /assets ? **\
+other folders on this web server. Remember /assets ?\
 **[![](images/21-11.png)]()\
 \
 /assets did not end up being anything of use. As we can see below. **\
 \
-**[![](images/21-12.png)]()\
+[![](images/21-12.png)]()\
 \
 Stuck, I re-assessed what I knew at this point. I have access to
 **Rick\'s web server**. clue.txt suggested I **look around the file
@@ -206,8 +203,7 @@ I input as a string.\
 \
 [![](images/21-16.png)]()\
 \
-**[There we go! I have got another ingredient and Flag
-2]{style="background-color:#a52a2a;"}**\
+**THERE WE GO! FLAG 2!**\
 \
 next it looks like the only option remaining is the root folder. Maybe
 I need higher permissions?\
@@ -225,30 +221,24 @@ sudo less /root/3rd.txt into the command panel\
 \
 [![](images/21-19.png)]()\
 \
-[Looks like that is the last ingredient! I punched that flag into the
-Pickle Rick Tryhackme. ]{style="background-color:#a52a2a;"}**[Success!
-]{style="background-color:#a52a2a;"}**[Pickle Rick Conquered.
-]{style="background-color:#a52a2a;"}
-:::
+**LOOKS LIKE THAT IS THE LAST INGREDIENT! WOHOO!**
 
-::: {.page}
 # Lessons Learned:
 
 \
-• The best lesson I learned is when you get stuck, it\'s ok to step
+The best lesson I learned is when you get stuck, it\'s ok to step
 back, start over, and recon recon recon.\
 \
-• Also there were times that I was asking myself a question, that I
+Also there were times that I was asking myself a question, that I
 could just as easily google. As you saw with 'Less', a simple google
 search pointed me directly to the main solution.\
 \
-• Doing write-ups for CTF\'s helps create a professional portfolio, also
+Doing write-ups for CTF\'s helps create a professional portfolio, also
 helps me really learn and own the solutions, and helps other people
 learn the CTF.\
 \
-→ If you are reading through this and have any comments/ suggestions on
+If you are reading through this and have any comments/ suggestions on
 how I can improve the next write-up. I\'ll try every write up to explain
 not only how I found the flags but my process and struggles. Please let
 me know. Via this form:\
 \
-:::

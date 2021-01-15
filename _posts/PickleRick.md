@@ -1,9 +1,10 @@
 ---
 published: true
 ---
+---
 layout: post
 title: Pickle Rick
-
+---
 
 \
 <https://tryhackme.com/room/picklerick>\

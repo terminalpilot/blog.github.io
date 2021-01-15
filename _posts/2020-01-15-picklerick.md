@@ -24,7 +24,7 @@ can about the victim machine.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
 
-![Screenshot](/images/3-1.jpg "Screenshot")
+![active](/images/active.jpg "active")
 
 \
 • First off I started with tool **nmap**\

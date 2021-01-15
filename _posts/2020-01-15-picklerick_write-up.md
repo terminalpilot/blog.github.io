@@ -42,11 +42,11 @@ victim machine reassigned ports to evade scanners.\
 anything interesting I add -p- (scanning all ports does take a
 significant amount of time)\
 \
-![](images/2screen.png)]()\
+![active](/images/2screen.png "active")
 \
 • This part was the most interesting to me is in boxed in red:\
 \
-[![](images/3-3.png)]()\
+![active](/images/3screen.png "active")
 \
 **What it tells me?** Port 80 is open with an apache **web-server**.
 Remember the Description of Pickle Rick? It mentioned exploring a web
@@ -55,7 +55,7 @@ application.\
 • First, I popped the **victim machine URL** in my **Host Machine
 web-browser**. The webserver displays a message from Rick:\
 \
-[![](images/3-4.png)]()\
+![active](/images/4screen.png "active")
 \
 • **Boom!** Since I was in a web-browser I went ahead and checked the
 page source (I am trying to find out the most information I can at this
@@ -64,7 +64,7 @@ keyboard (in Mozilla Firefox).\
 \
 → In the Page Source I find a note. It is no doubt from Rick:\
 \
-[![](images/3-5.png)]()\
+![active](/images/5screen.png "active")
 \
 • Now I know the **Username**. I took note.\
 \

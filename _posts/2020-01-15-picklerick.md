@@ -24,7 +24,7 @@ can about the victim machine.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
 \
-[![](images/3-1.png)]()\
+![]({{site.baseurl}}/https://flic.kr/p/2ksjwkp)
 \
 • First off I started with tool **nmap**\
 → **Why did I start with nmap?** NMAP is the most common tool used to

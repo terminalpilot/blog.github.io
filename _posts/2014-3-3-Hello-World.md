@@ -75,7 +75,6 @@ Next thought:\
 this is where **gobuster** comes in -\>\
 :::
 
-::: {.page}
 # gobuster {#gobuster .title .level-3}
 
 \

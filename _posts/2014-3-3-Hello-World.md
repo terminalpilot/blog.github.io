@@ -233,7 +233,7 @@ Pickle Rick Tryhackme. ]{style="background-color:#a52a2a;"}**[Success!
 :::
 
 ::: {.page}
-# Lessons Learned: {#lessons-learned .title .level-2}
+# Lessons Learned:
 
 \
 • The best lesson I learned is when you get stuck, it\'s ok to step

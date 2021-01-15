@@ -25,6 +25,7 @@ After hitting deploy I had my Active Machine (victim machine)\
 
 \
 First off I started with tool **nmap**\
+\
 → **Why did I start with nmap?** NMAP is the most common tool used to
 scan and probe services on the internet. Learn more in this free THM
 room: <https://tryhackme.com/room/ccpentesting>\
@@ -36,12 +37,7 @@ traceroute and common script scanning.\
 → **-p-**: scan **all** ports; not just the common ones. In-case the
 victim machine reassigned ports to evade scanners.\
 \
-**NOTE**: When I use nmap I always use -vv, -A, and -p- at a
-**minimum** if time permits.\
-→ If I\'m in a time crunch I just use -vv -A; if it does not produce
-anything interesting I add -p- (scanning all ports does take a
-significant amount of time)\
-\
+**NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to make port scanning harder. That is why I add -p-. Sometimes for a ctf if it's clear what I'm looking for I may take -p- off out of an interest of time. 
 ![active](/images/2screen.png "active")
 \
 • This part was the most interesting to me is in boxed in red:\

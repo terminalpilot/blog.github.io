@@ -39,11 +39,12 @@ traceroute and common script scanning.\
 victim machine reassigned ports to evade scanners.\
 \
 **NOTE**: My process is I use -vv, -A, and -p- as switches as a minimum. More often today common are ports shifted around to evade scanners. That is why I add -p-. Sometimes for a ctf if it's clear what I'm looking for I may take -p- off out of an interest of time. 
-![active](/images/2screen.png "active")
+\
+![active](/images/2screen.png "active")\
 \
 • This part was the most interesting to me is in boxed in red:\
 \
-![active](/images/3screen.png "active")
+![active](/images/3screen.png "active")\
 \
 **What it tells me?** Port 80 is open with an apache **web-server**.
 Remember the Description of Pickle Rick? It mentioned exploring a web
@@ -116,7 +117,7 @@ And there we go:\
 \
 ![active](/images/6screen.png "active")\
 \
-next I entered in the username and password I had noted.\
+next, I entered in the username and password I had noted.\
 \
 It worked! **I\'m in**.\
 \
@@ -236,5 +237,4 @@ helps me really learn and own the solutions, and helps other people
 learn the CTF\'s.\
 \
 If you are reading through this and have any comments/ suggestions on
-how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.magee@protonmail.com. My goals with writeups are to help others come to the solution, explain my process, and explain my struggles. 
-
+how I can improve this writeup or write-ups in the future; Please reach out to me on discord username: terminalpilot or jon.magee@protonmail.com. My goals with writeups are to help others come to the solution, explain my process, and explain my struggles.

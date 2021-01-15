@@ -24,7 +24,7 @@ can about the victim machine.\
 \
 • After hitting deploy I had my Active Machine (victim machine)\
 \
-![]({{site.baseurl}}/https://flic.kr/p/2ksjwkp)
+![]({{site.baseurl}}/https://imgur.com/hX43lr6)
 \
 • First off I started with tool **nmap**\
 → **Why did I start with nmap?** NMAP is the most common tool used to

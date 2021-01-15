@@ -1,13 +1,10 @@
 ---
 published: true
 ---
----
-layout: post
-title: Pickle Rick
----
+![1pickle](/images/1Pickle.png "1pickle")
 
 <https://tryhackme.com/room/picklerick>\
-[![](images/1-1.png)]()\
+
 
 
 # Initial Enumeration
@@ -45,7 +42,7 @@ victim machine reassigned ports to evade scanners.\
 anything interesting I add -p- (scanning all ports does take a
 significant amount of time)\
 \
-[![](images/3-2.png)]()\
+![](images/2screen.png)]()\
 \
 • This part was the most interesting to me is in boxed in red:\
 \

@@ -7,7 +7,7 @@ published: true
 
 
 
-# Initial Enumeration
+### Initial Enumeration
 
 
 # nmap
@@ -223,7 +223,7 @@ sudo less /root/3rd.txt into the command panel\
 \
 **LOOKS LIKE THAT IS THE LAST INGREDIENT! WOHOO!**
 
-# Lessons Learned:
+### Lessons Learned:
 
 \
 The best lesson I learned is when you get stuck, it\'s ok to step
